@@ -43,6 +43,14 @@ VacancyBot/
 ```bash
 pip install -r requirements.txt
 ```
+## 🔐 .env
+
+```bash
+Type the followings variables:
+
+ADZUNA_APP_KEY=YOUR_KEY
+ADZUNA_APP_ID=YOUR_APP_ID
+```
 
 ## ▶️ Running the project
 
